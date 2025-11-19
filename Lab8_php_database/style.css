@@ -1,0 +1,135 @@
+/* Container utama */
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Judul halaman */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+/* Tabel data */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+
+table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+
+/* Gambar barang */
+
+table img {
+    width: 80px;
+    height: auto;
+    border-radius: 5px;
+}
+
+
+/* Input form */
+
+.input {
+    margin-bottom: 15px;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.input input,
+.input select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #bbb;
+    border-radius: 4px;
+}
+
+
+/* Tombol */
+
+.submit input,
+.btn {
+    background: #333;
+    color: white;
+    padding: 10px 18px;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.submit input:hover,
+.btn:hover {
+    background: #555;
+}
+
+
+/* Tombol Tambah (Hijau) */
+
+.btn-add {
+    background: #28a745;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.btn-add:hover {
+    background: #218838;
+}
+
+
+/* Tombol Edit (Biru) */
+
+.btn-edit {
+    background: #007bff;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-edit:hover {
+    background: #0069d9;
+}
+
+
+/* Tombol Hapus (Merah) */
+
+.btn-delete {
+    background: #dc3545;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn-delete:hover {
+    background: #c82333;
+}
