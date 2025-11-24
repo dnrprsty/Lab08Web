@@ -42,7 +42,7 @@ yang membahas cara membuat aplikasi CRUD sederhana menggunakan PHP dan MySQL.
    Import data atau buat tabel sesuai struktur di atas.
 4. Jalankan Projek :
    ```bash
-   http://localhost/Lab8Web/
+   http://localhost/lab8_php_database/
 ---
 # Web Snapshot
 ## Tampilan Home
