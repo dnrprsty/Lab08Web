@@ -45,12 +45,12 @@ yang membahas cara membuat aplikasi CRUD sederhana menggunakan PHP dan MySQL.
    http://localhost/Lab8Web/
 ---
 # Web Snapshot
-Tampilan Home
+## Tampilan Home
 ![](ss/home.png)
-Menambahkan Barang
+## Menambahkan Barang
 ![](ss/add.png)
 ![](ss/addsucc.png)
-Mengedit Barang
+## Mengedit Barang
 ![](ss/edit.png)
-Menghapus Barang
+## Menghapus Barang
 ![](ss/delete.png)
